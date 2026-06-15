@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 904 218"
+     width="904" height="218">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#2d3561" text-anchor="middle">
+    <path d="M 229.2,154.0 L 229.2,122.0 L 139.5,122.0 L 139.5,146.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="132.5,146.0 146.5,146.0 139.5,154.0" fill="#2d3561"/>
+    <path d="M 318.9,154.0 L 318.9,122.0 L 229.2,122.0 L 229.2,146.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="222.2,146.0 236.2,146.0 229.2,154.0" fill="#2d3561"/>
+    <path d="M 494.4,154.0 L 494.4,122.0 L 395.9,122.0 L 395.9,146.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="388.9,146.0 402.9,146.0 395.9,154.0" fill="#2d3561"/>
+    <path d="M 494.4,154.0 L 494.4,122.0 L 592.9,122.0 L 592.9,146.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="585.9,146.0 599.9,146.0 592.9,154.0" fill="#2d3561"/>
+    <path d="M 592.9,154.0 L 592.9,122.0 L 700.2,122.0 L 700.2,146.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="693.2,146.0 707.2,146.0 700.2,154.0" fill="#2d3561"/>
+    <path d="M 229.2,154.0 L 229.2,96.0 L 62.5,96.0 L 62.5,146.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="55.5,146.0 69.5,146.0 62.5,154.0" fill="#2d3561"/>
+    <path d="M 824.6,154.0 L 824.6,70.0 L 494.4,70.0 L 494.4,146.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="487.4,146.0 501.4,146.0 494.4,154.0" fill="#2d3561"/>
+    <path d="M 318.9,154.0 L 318.9,18.0 L 824.6,18.0 L 824.6,146.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="817.6,146.0 831.6,146.0 824.6,154.0" fill="#2d3561"/>
+    <text x="62.5" y="181.0" font-size="15" font-weight="600">Schon</text>
+    <text x="62.5" y="200.0" font-size="12">ADV</text>
+    <text x="139.5" y="181.0" font-size="15" font-weight="600">die</text>
+    <text x="139.5" y="200.0" font-size="12">DET</text>
+    <text x="229.2" y="181.0" font-size="15" font-weight="600">Aufnahme</text>
+    <text x="229.2" y="200.0" font-size="12">NOUN</text>
+    <text x="318.9" y="181.0" font-size="15" font-weight="600">wurde</text>
+    <text x="318.9" y="200.0" font-size="12">AUX</text>
+    <text x="395.9" y="181.0" font-size="15" font-weight="600">sehr</text>
+    <text x="395.9" y="200.0" font-size="12">ADV</text>
+    <text x="494.4" y="181.0" font-size="15" font-weight="600">freundlich</text>
+    <text x="494.4" y="200.0" font-size="12">ADV</text>
+    <text x="592.9" y="181.0" font-size="15" font-weight="600">und</text>
+    <text x="592.9" y="200.0" font-size="12">CCONJ</text>
+    <text x="700.2" y="181.0" font-size="15" font-weight="600">zuvorkommend</text>
+    <text x="700.2" y="200.0" font-size="12">ADV</text>
+    <text x="824.6" y="181.0" font-size="15" font-weight="600">erledigt.</text>
+    <text x="824.6" y="200.0" font-size="12">VERB</text>
+  </g>
+</svg>

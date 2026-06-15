@@ -1,0 +1,61 @@
+topic_id,rank,sentence,probability,rating,doc_id
+0,1,"Das wüsste man nicht, kam die Antwort, heute sei man im Verzug aber mindestens noch eine halbe Stunde.",1.0,5.0,1557
+0,2,"Es gab aber kein Abschlussgespräch, in dem nochmal alles zusammengefasst wurde und auf Detailfragen und vor allem das weitere Vorgehen geklärt werden konnten, obwohl ich mehrmals danach gefragt hatte.",1.0,4.0,7962
+0,3,"Zu Anfang macht man viele Angaben die notiert werden, nur guckt niemand in die Unterlagen rein, weshalb man sich ständig wiederholen muss.",1.0,4.0,6118
+1,1,"Freundlich, nimmt sich Zeit, nette Arzthelferinnen,",1.0,2.0,304
+1,2,"Kompetenter, netter und sympathischer Arzt",1.0,2.0,5424
+1,3,Ich wollte ihr nur klar machen das dass nicht O.,1.0,2.0,6736
+2,1,Gewiss ist eine sehr kompetente Ärztin und nimmt sich die notwendige Zeit für den Patient.,1.0,2.0,5317
+2,2,Hat sich Zeit genommen ind gründlich untersucht.,1.0,2.0,802
+2,3,"Sehr kompetente und nette Ärztin, die sich viel Zeit für den Patienten nimmt.",1.0,1.0,5956
+3,1,Das Zahnarztzentrum allgemein ist sehr modern und sauber.,1.0,1.0,154
+3,2,Söllenböhmer selbst sind sehr kompetent und nett.,1.0,1.0,3349
+3,3,Schon die Aufnahme wurde sehr freundlich und zuvorkommend erledigt.,1.0,1.0,7518
+4,1,"Ursachenanalyse war oberflächlich, statt dessen Kortisonbehandlung.",1.0,4.0,6772
+4,2,"Das finde ich enorm bedauerlich, da der MRT-Befund ganz klar eine andere Diagnose zeigte (war auch auf den MRT-Bildern zu sehen).",1.0,3.0,3145
+4,3,"Termin vorgespieltes Interesse b) voreilige Diagnosen nach Minimaltests mit Ergebis ""Sie haben nichts"" c) Besserwisserei gegen vermutete Diagnosen v.",1.0,6.0,4684
+5,1,Ich fühlte mich bei Herr Frank sehr gut aufgehoben.,1.0,1.0,6916
+5,2,Wir fühlen uns durch ihn sehr gut betreut.,1.0,1.0,2703
+5,3,Hier fühle ich mich Super aufgehoben hier bleibe ich.,1.0,1.0,1536
+6,1,Sudhoff als ausgesprochen unfreundlich und ungeduldig.,1.0,5.0,2838
+6,2,"Allerdings sind einige der Helferinnen unfreundlich, pampig, patzig und besserwisserisch.",1.0,2.0,728
+6,3,"Er wirkt sehr hochnäsig, unpersönlich und herabschauend.",1.0,4.0,4135
+7,1,Dieses ganze Gespräch hat nicht mal 3 Minuten gedauert.,1.0,6.0,2426
+7,2,Beim zweiten Mal haben wir 80 Minuten gewartet.,1.0,2.0,7553
+7,3,Wartezeiten von 2 Stunden sind keine Seltenheit!!,1.0,3.0,7162
+8,1,Am 01.08.17 wurde mir von Herrn Dr.,1.0,1.0,6622
+8,2,Ich habe mir von Dr.,1.0,1.0,4010
+8,3,Nicht ohne Grund hat Dr.,1.0,1.0,4079
+9,1,Ich kann diese Praxis nur weiterempfehlen.,1.0,2.0,3122
+9,2,Ich kann sie wirklich nur weiterempfehlen.,1.0,1.0,7649
+9,3,Ich kann Frau Konlechner nur wärmstens weiterempfehlen.,1.0,1.0,5805
+10,1,Die OP war ein voller Erfolg.,1.0,1.0,991
+10,2,Der erste Eindruck hat mich überzeugt.,1.0,3.0,7377
+10,3,Prinzipiell war die Behandlung gut.,1.0,3.0,3713
+11,1,Beecken in Behandlung und nach wie vor sehr zufrieden.,1.0,2.0,588
+11,2,Bin mit der Behandlung sehr zufrieden.,1.0,2.0,5904
+11,3,Schneider voll und ganz zufrieden.,1.0,2.0,3939
+12,1,Also ich gehe da sicher nicht mehr hin.,1.0,4.0,5190
+12,2,Gehe da nicht wieder hin.,1.0,6.0,4000
+12,3,Wir werden dort nicht wieder hingehen.,1.0,5.0,4707
+13,1,Habe einen Onlinetermin für meine Tochter mit Angabe des Geburtsdatum vereinbart.,1.0,6.0,6404
+13,2,Mir wurde am Telefon jeweils für den gleichen Tag ein Termin gegeben.,1.0,2.0,1802
+13,3,Rödler angerufen und der Sekretärin um einen Termin gebeten!,1.0,6.0,7098
+14,1,"Schnelle, kompetente und präzise kurz gehaltene Behandlung.",1.0,1.0,7625
+14,2,"Freundliches Praxisteam, schöne Räume, keine Wartezeit, sympathischer Arzt, ohne Zeitdruck kompetente Beratung, kurzer Eingriff ohne neuen Termin.",1.0,1.0,3580
+14,3,Prima: Terminsuche online und sehr nette und kompetente Betreuung,1.0,1.0,1101
+15,1,Ich hätte meinem Sohn und mir gerne den Termin erspart.,1.0,5.0,4724
+15,2,Eine IBU bei Bedarf hätte ich mir selbst auch verschreiben können.,1.0,5.0,4134
+15,3,Die Diagnose und das ausgestellten Privatrezept hätte ich mir sparen können.,1.0,6.0,5760
+16,1,Die Ungeduld der Ärztin als auch das nicht vorhandene Interesse zur Entstehung eines Symptoms wenigstens ein paar Sekunden zuzuhören irritieren sehr und lassen kein Vertrauen aufkommen.,1.0,6.0,7879
+16,2,Nach meinem letzten Besuch in der Praxis Anstöß-Kehrbaum bin ich nun doch einigermaßen entgeistert und kann wirklich keine gute Beurteilung abgeben.,1.0,3.0,7480
+16,3,"Bewertungen im Netz sind mir eigentlich zuwider, da sie dem Bewerteten keine Rechtfertigungsmöglichkeiten lassen und äußerst subjektiv sind, aber die Behandlung der sehr sympathischen Zahnmedizinerin Franziska Kremer sprengt den Rahmen dessen, was mit medizinischer Sorgfaltspflicht noch in Einklang zu bringen ist.",1.0,5.0,3230
+17,1,Es findet keine Beratung statt.,1.0,6.0,4962
+17,2,"Es werden keine Fragen zugelassen, ein vertrauensvolles Gespräch findet nicht statt.",1.0,6.0,2385
+17,3,Dadurch findet keine richtige Beratung statt.,1.0,5.0,1876
+18,1,ich war zu einer selbstgezahlten Ultraschalluntersuchung in der Praxis Dr.,1.0,5.0,7185
+18,2,Meine Mitpatienten und ich waren von der Behandlung und Betreuung von Prof.,1.0,1.0,6244
+18,3,Ich war im Januar 2014 zum ETS bei Frau Dr.,1.0,5.0,5254
+19,1,"Ich war sehr froh, mit akuten Beschwerden so kurzfristig einen Termin bekommen zu haben.",1.0,6.0,1284
+19,2,"Ich war sehr lange auf der Suche nach einem Arzt, der meine Schmerzen ernst nahm und bin sehr froh ihn gefunden zu haben.",1.0,1.0,6927
+19,3,"Ich muss sagen, ich bin positiv überrascht und begeistert.",1.0,1.0,1165

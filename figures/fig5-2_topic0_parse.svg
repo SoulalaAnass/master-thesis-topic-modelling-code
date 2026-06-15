@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1542 322"
+     width="1542" height="322">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#2d3561" text-anchor="middle">
+    <path d="M 143.4,258.0 L 143.4,226.0 L 62.5,226.0 L 62.5,250.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="55.5,250.0 69.5,250.0 62.5,258.0" fill="#2d3561"/>
+    <path d="M 143.4,258.0 L 143.4,226.0 L 224.3,226.0 L 224.3,250.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="217.3,250.0 231.3,250.0 224.3,258.0" fill="#2d3561"/>
+    <path d="M 552.8,258.0 L 552.8,226.0 L 463.1,226.0 L 463.1,250.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="456.1,250.0 470.1,250.0 463.1,258.0" fill="#2d3561"/>
+    <path d="M 719.5,258.0 L 719.5,226.0 L 642.5,226.0 L 642.5,250.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="635.5,250.0 649.5,250.0 642.5,258.0" fill="#2d3561"/>
+    <path d="M 719.5,258.0 L 719.5,226.0 L 796.5,226.0 L 796.5,250.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="789.5,250.0 803.5,250.0 796.5,258.0" fill="#2d3561"/>
+    <path d="M 873.5,258.0 L 873.5,226.0 L 954.4,226.0 L 954.4,250.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="947.4,250.0 961.4,250.0 954.4,258.0" fill="#2d3561"/>
+    <path d="M 1232.3,258.0 L 1232.3,226.0 L 1133.8,226.0 L 1133.8,250.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="1126.8,250.0 1140.8,250.0 1133.8,258.0" fill="#2d3561"/>
+    <path d="M 1471.6,258.0 L 1471.6,226.0 L 1386.3,226.0 L 1386.3,250.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="1379.3,250.0 1393.3,250.0 1386.3,258.0" fill="#2d3561"/>
+    <path d="M 143.4,258.0 L 143.4,200.0 L 305.2,200.0 L 305.2,250.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="298.2,250.0 312.2,250.0 305.2,258.0" fill="#2d3561"/>
+    <path d="M 386.1,258.0 L 386.1,200.0 L 552.8,200.0 L 552.8,250.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="545.8,250.0 559.8,250.0 552.8,258.0" fill="#2d3561"/>
+    <path d="M 719.5,258.0 L 719.5,200.0 L 873.5,200.0 L 873.5,250.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="866.5,250.0 880.5,250.0 873.5,258.0" fill="#2d3561"/>
+    <path d="M 1471.6,258.0 L 1471.6,200.0 L 1309.3,200.0 L 1309.3,250.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="1302.3,250.0 1316.3,250.0 1309.3,258.0" fill="#2d3561"/>
+    <path d="M 386.1,258.0 L 386.1,174.0 L 143.4,174.0 L 143.4,250.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="136.4,250.0 150.4,250.0 143.4,258.0" fill="#2d3561"/>
+    <path d="M 1471.6,258.0 L 1471.6,174.0 L 1232.3,174.0 L 1232.3,250.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="1225.3,250.0 1239.3,250.0 1232.3,258.0" fill="#2d3561"/>
+    <path d="M 386.1,258.0 L 386.1,148.0 L 719.5,148.0 L 719.5,250.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="712.5,250.0 726.5,250.0 719.5,258.0" fill="#2d3561"/>
+    <path d="M 719.5,258.0 L 719.5,148.0 L 1035.3,148.0 L 1035.3,250.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="1028.3,250.0 1042.3,250.0 1035.3,258.0" fill="#2d3561"/>
+    <path d="M 719.5,258.0 L 719.5,18.0 L 1471.6,18.0 L 1471.6,250.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="1464.6,250.0 1478.6,250.0 1471.6,258.0" fill="#2d3561"/>
+    <text x="62.5" y="285.0" font-size="15" font-weight="600">Das</text>
+    <text x="62.5" y="304.0" font-size="12">DET</text>
+    <text x="143.4" y="285.0" font-size="15" font-weight="600">wüsste</text>
+    <text x="143.4" y="304.0" font-size="12">VERB</text>
+    <text x="224.3" y="285.0" font-size="15" font-weight="600">man</text>
+    <text x="224.3" y="304.0" font-size="12">PRON</text>
+    <text x="305.2" y="285.0" font-size="15" font-weight="600">nicht,</text>
+    <text x="305.2" y="304.0" font-size="12">PART</text>
+    <text x="386.1" y="285.0" font-size="15" font-weight="600">kam</text>
+    <text x="386.1" y="304.0" font-size="12">VERB</text>
+    <text x="463.1" y="285.0" font-size="15" font-weight="600">die</text>
+    <text x="463.1" y="304.0" font-size="12">DET</text>
+    <text x="552.8" y="285.0" font-size="15" font-weight="600">Antwort,</text>
+    <text x="552.8" y="304.0" font-size="12">NOUN</text>
+    <text x="642.5" y="285.0" font-size="15" font-weight="600">heute</text>
+    <text x="642.5" y="304.0" font-size="12">ADV</text>
+    <text x="719.5" y="285.0" font-size="15" font-weight="600">sei</text>
+    <text x="719.5" y="304.0" font-size="12">AUX</text>
+    <text x="796.5" y="285.0" font-size="15" font-weight="600">man</text>
+    <text x="796.5" y="304.0" font-size="12">PRON</text>
+    <text x="873.5" y="285.0" font-size="15" font-weight="600">im</text>
+    <text x="873.5" y="304.0" font-size="12">ADP</text>
+    <text x="954.4" y="285.0" font-size="15" font-weight="600">Verzug</text>
+    <text x="954.4" y="304.0" font-size="12">NOUN</text>
+    <text x="1035.3" y="285.0" font-size="15" font-weight="600">aber</text>
+    <text x="1035.3" y="304.0" font-size="12">ADV</text>
+    <text x="1133.8" y="285.0" font-size="15" font-weight="600">mindestens</text>
+    <text x="1133.8" y="304.0" font-size="12">ADV</text>
+    <text x="1232.3" y="285.0" font-size="15" font-weight="600">noch</text>
+    <text x="1232.3" y="304.0" font-size="12">ADV</text>
+    <text x="1309.3" y="285.0" font-size="15" font-weight="600">eine</text>
+    <text x="1309.3" y="304.0" font-size="12">DET</text>
+    <text x="1386.3" y="285.0" font-size="15" font-weight="600">halbe</text>
+    <text x="1386.3" y="304.0" font-size="12">ADJ</text>
+    <text x="1471.6" y="285.0" font-size="15" font-weight="600">Stunde.</text>
+    <text x="1471.6" y="304.0" font-size="12">NOUN</text>
+  </g>
+</svg>

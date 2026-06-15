@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 697 244"
+     width="697" height="244">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#2d3561" text-anchor="middle">
+    <path d="M 143.4,180.0 L 143.4,148.0 L 62.5,148.0 L 62.5,172.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="55.5,172.0 69.5,172.0 62.5,180.0" fill="#2d3561"/>
+    <path d="M 143.4,180.0 L 143.4,148.0 L 224.3,148.0 L 224.3,172.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="217.3,172.0 231.3,172.0 224.3,180.0" fill="#2d3561"/>
+    <path d="M 301.3,180.0 L 301.3,148.0 L 378.3,148.0 L 378.3,172.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="371.3,172.0 385.3,172.0 378.3,180.0" fill="#2d3561"/>
+    <path d="M 532.3,180.0 L 532.3,148.0 L 455.3,148.0 L 455.3,172.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="448.3,172.0 462.3,172.0 455.3,180.0" fill="#2d3561"/>
+    <path d="M 622.0,180.0 L 622.0,148.0 L 532.3,148.0 L 532.3,172.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="525.3,172.0 539.3,172.0 532.3,180.0" fill="#2d3561"/>
+    <path d="M 622.0,180.0 L 622.0,70.0 L 301.3,70.0 L 301.3,172.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="294.3,172.0 308.3,172.0 301.3,180.0" fill="#2d3561"/>
+    <path d="M 143.4,180.0 L 143.4,18.0 L 622.0,18.0 L 622.0,172.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="615.0,172.0 629.0,172.0 622.0,180.0" fill="#2d3561"/>
+    <text x="62.5" y="207.0" font-size="15" font-weight="600">Wir</text>
+    <text x="62.5" y="226.0" font-size="12">PRON</text>
+    <text x="143.4" y="207.0" font-size="15" font-weight="600">fühlen</text>
+    <text x="143.4" y="226.0" font-size="12">VERB</text>
+    <text x="224.3" y="207.0" font-size="15" font-weight="600">uns</text>
+    <text x="224.3" y="226.0" font-size="12">PRON</text>
+    <text x="301.3" y="207.0" font-size="15" font-weight="600">durch</text>
+    <text x="301.3" y="226.0" font-size="12">ADP</text>
+    <text x="378.3" y="207.0" font-size="15" font-weight="600">ihn</text>
+    <text x="378.3" y="226.0" font-size="12">PRON</text>
+    <text x="455.3" y="207.0" font-size="15" font-weight="600">sehr</text>
+    <text x="455.3" y="226.0" font-size="12">ADV</text>
+    <text x="532.3" y="207.0" font-size="15" font-weight="600">gut</text>
+    <text x="532.3" y="226.0" font-size="12">ADV</text>
+    <text x="622.0" y="207.0" font-size="15" font-weight="600">betreut.</text>
+    <text x="622.0" y="226.0" font-size="12">VERB</text>
+  </g>
+</svg>

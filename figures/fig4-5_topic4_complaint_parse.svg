@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 805 140"
+     width="805" height="140">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#2d3561" text-anchor="middle">
+    <path d="M 226.5,76.0 L 226.5,44.0 L 106.0,44.0 L 106.0,68.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="99.0,68.0 113.0,68.0 106.0,76.0" fill="#2d3561"/>
+    <path d="M 226.5,76.0 L 226.5,44.0 L 342.6,44.0 L 342.6,68.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="335.6,68.0 349.6,68.0 342.6,76.0" fill="#2d3561"/>
+    <path d="M 342.6,76.0 L 342.6,44.0 L 458.7,44.0 L 458.7,68.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="451.7,68.0 465.7,68.0 458.7,76.0" fill="#2d3561"/>
+    <path d="M 681.6,76.0 L 681.6,44.0 L 539.6,44.0 L 539.6,68.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="532.6,68.0 546.6,68.0 539.6,76.0" fill="#2d3561"/>
+    <path d="M 458.7,76.0 L 458.7,18.0 L 681.6,18.0 L 681.6,68.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="674.6,68.0 688.6,68.0 681.6,76.0" fill="#2d3561"/>
+    <text x="106.0" y="103.0" font-size="15" font-weight="600">Ursachenanalyse</text>
+    <text x="106.0" y="122.0" font-size="12">NOUN</text>
+    <text x="226.5" y="103.0" font-size="15" font-weight="600">war</text>
+    <text x="226.5" y="122.0" font-size="12">AUX</text>
+    <text x="342.6" y="103.0" font-size="15" font-weight="600">oberflächlich,</text>
+    <text x="342.6" y="122.0" font-size="12">ADV</text>
+    <text x="458.7" y="103.0" font-size="15" font-weight="600">statt</text>
+    <text x="458.7" y="122.0" font-size="12">ADP</text>
+    <text x="539.6" y="103.0" font-size="15" font-weight="600">dessen</text>
+    <text x="539.6" y="122.0" font-size="12">PRON</text>
+    <text x="681.6" y="103.0" font-size="15" font-weight="600">Kortisonbehandlung.</text>
+    <text x="681.6" y="122.0" font-size="12">NOUN</text>
+  </g>
+</svg>

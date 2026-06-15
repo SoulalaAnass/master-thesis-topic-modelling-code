@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 825 218"
+     width="825" height="218">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#2d3561" text-anchor="middle">
+    <path d="M 237.0,154.0 L 237.0,122.0 L 147.3,122.0 L 147.3,146.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="140.3,146.0 154.3,146.0 147.3,154.0" fill="#2d3561"/>
+    <path d="M 326.7,154.0 L 326.7,122.0 L 237.0,122.0 L 237.0,146.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="230.0,146.0 244.0,146.0 237.0,154.0" fill="#2d3561"/>
+    <path d="M 403.7,154.0 L 403.7,122.0 L 480.7,122.0 L 480.7,146.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="473.7,146.0 487.7,146.0 480.7,154.0" fill="#2d3561"/>
+    <path d="M 643.0,154.0 L 643.0,122.0 L 557.7,122.0 L 557.7,146.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="550.7,146.0 564.7,146.0 557.7,154.0" fill="#2d3561"/>
+    <path d="M 745.4,154.0 L 745.4,122.0 L 643.0,122.0 L 643.0,146.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="636.0,146.0 650.0,146.0 643.0,154.0" fill="#2d3561"/>
+    <path d="M 237.0,154.0 L 237.0,96.0 L 66.4,96.0 L 66.4,146.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="59.4,146.0 73.4,146.0 66.4,154.0" fill="#2d3561"/>
+    <path d="M 557.7,154.0 L 557.7,96.0 L 403.7,96.0 L 403.7,146.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="396.7,146.0 410.7,146.0 403.7,154.0" fill="#2d3561"/>
+    <path d="M 326.7,154.0 L 326.7,18.0 L 745.4,18.0 L 745.4,146.0" stroke="#2d3561" stroke-width="1.6" stroke-linejoin="miter" fill="none"/>
+    <polygon points="738.4,146.0 752.4,146.0 745.4,154.0" fill="#2d3561"/>
+    <text x="66.4" y="181.0" font-size="15" font-weight="600">Dieses</text>
+    <text x="66.4" y="200.0" font-size="12">DET</text>
+    <text x="147.3" y="181.0" font-size="15" font-weight="600">ganze</text>
+    <text x="147.3" y="200.0" font-size="12">ADJ</text>
+    <text x="237.0" y="181.0" font-size="15" font-weight="600">Gespräch</text>
+    <text x="237.0" y="200.0" font-size="12">NOUN</text>
+    <text x="326.7" y="181.0" font-size="15" font-weight="600">hat</text>
+    <text x="326.7" y="200.0" font-size="12">AUX</text>
+    <text x="403.7" y="181.0" font-size="15" font-weight="600">nicht</text>
+    <text x="403.7" y="200.0" font-size="12">PART</text>
+    <text x="480.7" y="181.0" font-size="15" font-weight="600">mal</text>
+    <text x="480.7" y="200.0" font-size="12">ADV</text>
+    <text x="557.7" y="181.0" font-size="15" font-weight="600">3</text>
+    <text x="557.7" y="200.0" font-size="12">NUM</text>
+    <text x="643.0" y="181.0" font-size="15" font-weight="600">Minuten</text>
+    <text x="643.0" y="200.0" font-size="12">NOUN</text>
+    <text x="745.4" y="181.0" font-size="15" font-weight="600">gedauert.</text>
+    <text x="745.4" y="200.0" font-size="12">VERB</text>
+  </g>
+</svg>

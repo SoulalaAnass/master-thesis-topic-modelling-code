@@ -1,0 +1,56 @@
+# ─── Large raw data / corpora — download separately (see README), do NOT commit ───
+# Raw third-party dataset
+german_doctor_reviews_stratified_sample.csv
+# Full corpus (~130 MB, exceeds GitHub's 100 MB file limit)
+Corpus/
+# Large regenerable embedding matrix (~37 MB) — produced by step1
+data/german_embeddings.npy
+
+# Generic large/binary regenerable artifacts (safety net)
+*.npy
+*.npz
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.zip
+*.tar
+*.tar.gz
+*.gz
+*.7z
+*.model
+*.bin
+
+# Intermediate HTML parses produced by step4 (the final SVGs are committed)
+figures/parse_html/
+
+# ─── Python ───
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# ─── Editors / IDE ───
+.vscode/
+.idea/
+*.swp
+*~
+
+# ─── OS junk ───
+.DS_Store
+Thumbs.db
+desktop.ini

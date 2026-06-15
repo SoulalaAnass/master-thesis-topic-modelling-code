@@ -1,0 +1,33 @@
+# Topic Modelling in German Medical Language — pinned environment
+# Python 3.x.  After installing, download the German spaCy model:
+#     python -m spacy download de_core_news_sm
+#
+# Note: these versions reflect the working environment used to clean and
+# re-verify the repository. The original results (Aug 2025) were produced
+# with a comparable stack; because UMAP/HDBSCAN are sensitive to library
+# versions, pin these to reproduce the reported topic structure exactly.
+
+pandas==2.3.1
+numpy==2.2.6
+scipy==1.16.0
+scikit-learn==1.7.0
+
+torch==2.7.1
+transformers==4.53.2
+sentence-transformers==5.0.0
+
+bertopic==0.17.3
+umap-learn==0.5.9.post2
+hdbscan==0.8.40
+
+spacy==3.8.7
+nltk==3.9.1
+
+matplotlib==3.10.3
+seaborn==0.13.2
+plotly==6.2.0
+wordcloud==1.9.4
+
+tqdm==4.67.1
+numba==0.61.2
+llvmlite==0.44.0
